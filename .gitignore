@@ -7,3 +7,7 @@
 
 # Conda Environment - we add spec-file.txt instead of entire env
 envs/
+
+# ml model and image files
+images/
+models/
