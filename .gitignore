@@ -5,5 +5,9 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Conda Environment - we add spec-file.txt instead of entire env
-envs/
+# environment yml files
+.yml
+
+# ml model and image files
+images/
+models/
