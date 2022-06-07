@@ -6,8 +6,9 @@
 .ipynb_checkpoints
 
 # environment yml files
-.yml
+environment.yml
 
 # ml model and image files
-images/
-models/
+_images/
+_datasets/
+_models/
