@@ -1,3 +1,5 @@
+# Default dirs
+~
 
 # Finder
 .DS_Store
@@ -12,3 +14,11 @@ environment.yml
 _images/
 _datasets/
 _models/
+
+# tf dirs
+_tf_logs/
+_tf_models/
+my_tfhub_cache/
+
+# ref notebooks
+reference_notebooks/
