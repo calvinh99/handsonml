@@ -19,6 +19,14 @@ _models/
 _tf_logs/
 _tf_models/
 my_tfhub_cache/
+_tf_policies/
+
+# deploy model dirs
+_tf_saved_models/
+gcp_service_keys/
+
+# kaggle datasets
+datasets/
 
 # ref notebooks
 reference_notebooks/
